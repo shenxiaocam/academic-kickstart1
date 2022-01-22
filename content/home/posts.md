@@ -70,6 +70,7 @@ subtitle = ""
 We are now doing a cross-network embedding project which aims to apply domain adaptation and graph neural networks (deep network embedding) to learn network-invariant feature representations to address the cross-network prediction tasks.
 
 1. Our paper "Graph Transfer Learning via Adversarial Domain Adaptation with Graph Convolution" has been accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE).
+
    [Paper] https://ieeexplore.ieee.org/document/9684927
    
 2. Our paper "Adversarial Deep Network Embedding for Cross-Network Node Classification" has been accepted by AAAI 2020. 
