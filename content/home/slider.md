@@ -28,35 +28,22 @@ Program Chair (Conference)
 Program Committee Member (Conference)
 ====
 
-•	AAAI Conference on Artificial Intelligence (AAAI), 2021, 2022
+•	AAAI Conference on Artificial Intelligence (AAAI), 2021, 2022, 2023
 
-•	International Joint Conference on Artificial Intelligence (IJCAI), 2021
+•	International Joint Conference on Artificial Intelligence (IJCAI), 2021, 2022
 
-External Reviewer (Conference)
-====
-
-•	AAAI Conference on Artificial Intelligence (AAAI), 2017, 2018
-
-•	International Joint Conference on Artificial Intelligence (IJCAI), 2019
-
-•	ACM International Conference on Information and Knowledge Management (CIKM), 2019
-
-•	IEEE International Conference on Data Mining series (ICDM), 2016, 2017, 2018, 2020
-
-•	SIAM International Conference on Data Mining (SDM), 2018, 2020
 
 Journal Reviewer
 ====
 
 •	IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 
-•	ACM Transactions on Knowledge Discovery from Data (TKDD) 
+•	IEEE Transactions on Knowledge and Data Engineering (TKDE)
 
-•	Future Generation Computer Systems (FGCS)
+•	ACM Transactions on Knowledge Discovery from Data (TKDD) 
 
 •	IEEE Transactions on Emerging Topics in Computational Intelligence
 
-•	Information Fusion
 
 
 
