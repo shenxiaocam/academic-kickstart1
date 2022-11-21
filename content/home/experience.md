@@ -30,6 +30,14 @@ date_format = "Jan 2006"
   date_end = "2021-02-28"
   description = """
 
+  title = "Postdoctoral fellow"
+  company = "The Hong Kong Polytechnic University"
+  company_url = ""
+  location = "Hong Kong"
+  date_start = "2019-03-01"
+  date_end = "2021-02-28"
+  description = """
+
   """
 
 
