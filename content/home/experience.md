@@ -22,12 +22,12 @@ date_format = "Jan 2006"
 
 
 [[experience]] 
-  title = "Postdoctoral fellow"
-  company = "The Hong Kong Polytechnic University"
+  title = "Associate Professor"
+  company = "Hainan University"
   company_url = ""
-  location = "Hong Kong"
-  date_start = "2019-03-01"
-  date_end = "2021-02-28"
+  location = "China"
+  date_start = "2021-04-07"
+  date_end = ""
   description = """
 
   title = "Postdoctoral fellow"
