@@ -31,6 +31,7 @@ date_format = "Jan 2006"
   description = """
   
   """
+[[experience]]
   title = "Postdoctoral Fellow"
   company = "The Hong Kong Polytechnic University"
   company_url = ""
