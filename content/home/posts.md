@@ -69,11 +69,13 @@ subtitle = ""
 1. Our paper "Neighbor Contrastive Learning on Learnable Graph Augmentation" has been accepted by AAAI 2023.
 
    [Paper] 
+   
    [Code] https://github.com/shenxiaocam/NCLA
 
 2. Our paper "Graph Transfer Learning via Adversarial Domain Adaptation with Graph Convolution" has been accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE).
 
    [Paper] https://ieeexplore.ieee.org/document/9684927
+   
    [Code] https://github.com/daiquanyu/AdaGCN_TKDE
    
 3. Our paper "Adversarial Deep Network Embedding for Cross-Network Node Classification" has been accepted by AAAI 2020. 
