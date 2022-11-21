@@ -15,8 +15,9 @@ role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Hainan University 
-  url: "shenxiaocam@163.com"
+- name: Hainan University
+- shenxiaocam@163.com 
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include machine learning and data mining, specialized in graph representation learning, deep learning, transfer learning, and data mining in complex networks.
