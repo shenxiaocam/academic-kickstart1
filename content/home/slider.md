@@ -28,9 +28,11 @@ Program Chair (Conference)
 Program Committee Member (Conference)
 ====
 
+•	ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING (KDD), 2023
+
 •	AAAI Conference on Artificial Intelligence (AAAI), 2021, 2022, 2023
 
-•	International Joint Conference on Artificial Intelligence (IJCAI), 2021, 2022
+•	International Joint Conference on Artificial Intelligence (IJCAI), 2021, 2022, 2023
 
 
 Journal Reviewer
