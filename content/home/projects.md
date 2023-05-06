@@ -76,3 +76,5 @@ subtitle = ""
 +++
 
 "The Research on Key Technologies of Cross-network Representation Learning based on the Integration of Graph Neural Network and Domain Adaptation", National Natural Science Foundation of China (No. 62102124), 2022/01-2024/12, PI.  
+
+“The Research on Key Technologies of Cross-Network Representation Learning for Graph Domain Adaptation”, the Research Start-up Fund of Hainan University (No. KYQD(ZR)-22016), 2021/04-2026/04, PI.
