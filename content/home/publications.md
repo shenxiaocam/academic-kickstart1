@@ -67,7 +67,7 @@ subtitle = ""
  css_class = ""
 +++
 
-[1] Xiao Shen, Shirui Pan, Kup-Sze Choi, Xi Zhou*. Domain-adaptive Message Passing Graph Neural Network. Neural Networks, 2023.
+[1] Xiao Shen, Shirui Pan, Kup-Sze Choi, Xi Zhou*. Domain-adaptive Message Passing Graph Neural Network. Neural Networks, vol. 164, pp. 439-454, 2023.
 
 [2] Xiao Shen, Dewang sun, Shirui Pan, Xi Zhou, and Laurence T. Yang. Neighbor Contrastive Learning on Learnable Graph Augmentation. In Proceedings of AAAI Conference on Artificial Intelligence (AAAI), 2023. 
 
