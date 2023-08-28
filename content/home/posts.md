@@ -71,12 +71,13 @@ subtitle = ""
    [Paper] 
    
    [Code] https://github.com/Qqqq-shao/DGASN
-   
-2.  Our paper "Neighbor Contrastive Learning on Learnable Graph Augmentation" has been accepted by AAAI 2023.
+
+2. Our paper "Neighbor Contrastive Learning on Learnable Graph Augmentation" has been accepted by AAAI 2023.
 
    [Paper] https://ojs.aaai.org/index.php/AAAI/article/view/26168
    
-   [Code] https://github.com/shenxiaocam/NCLA
+   [Code] https://github.com/shenxiaocam/NCLA  
+
    
 
 
