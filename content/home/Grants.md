@@ -75,8 +75,8 @@ subtitle = ""
  css_class = ""
 +++
 
-"The Research on Graph Contrastive Learning and Contrastive Domain Adaptation Methods for Cross-network Node Classification", National Natural Science Foundation of China (No. 62362020), 2024/01-2027/12, PI.  
+1. "The Research on Graph Contrastive Learning and Contrastive Domain Adaptation Methods for Cross-network Node Classification", National Natural Science Foundation of China (No. 62362020), 2024/01-2027/12, PI.  
 
-"The Research on Key Technologies of Cross-network Representation Learning based on the Integration of Graph Neural Network and Domain Adaptation", National Natural Science Foundation of China (No. 62102124), 2022/01-2024/12, PI.  
+2. "The Research on Key Technologies of Cross-network Representation Learning based on the Integration of Graph Neural Network and Domain Adaptation", National Natural Science Foundation of China (No. 62102124), 2022/01-2024/12, PI.  
 
-“The Research on Key Technologies of Cross-Network Representation Learning for Graph Domain Adaptation”, the Research Start-up Fund of Hainan University (No. KYQD(ZR)-22016), 2021/04-2026/04, PI.
+3. “The Research on Key Technologies of Cross-Network Representation Learning for Graph Domain Adaptation”, the Research Start-up Fund of Hainan University (No. KYQD(ZR)-22016), 2021/04-2026/04, PI.
