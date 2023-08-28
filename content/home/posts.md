@@ -66,29 +66,17 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+1. Our paper "Domain-adaptive Graph Attention-supervised Network for Cross-network Edge Classification" has been accepted by IEEE Transactions on Neural Networks and Learning Systems.
 
-1.  Our paper "Neighbor Contrastive Learning on Learnable Graph Augmentation" has been accepted by AAAI 2023.
+   [Paper] 
+   
+   [Code] https://github.com/Qqqq-shao/DGASN
+   
+2.  Our paper "Neighbor Contrastive Learning on Learnable Graph Augmentation" has been accepted by AAAI 2023.
 
    [Paper] https://ojs.aaai.org/index.php/AAAI/article/view/26168
    
    [Code] https://github.com/shenxiaocam/NCLA
    
-2. Our paper "Graph Transfer Learning via Adversarial Domain Adaptation with Graph Convolution" has been accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE).
 
-   [Paper] https://ieeexplore.ieee.org/document/9684927
-   
-   [Code] https://github.com/daiquanyu/AdaGCN_TKDE
-   
-3. Our paper "Adversarial Deep Network Embedding for Cross-Network Node Classification" has been accepted by AAAI 2020. 
-
-   [Paper] https://arxiv.org/abs/2002.07366
-   
-   [Code] https://github.com/shenxiaocam/ACDNE
-   
-4. Our paper "Network Together: Node Classification via Cross-Network Deep Network Embedding" has been accepted by IEEE Transactions on Neural Networks and Learning Systems.
-   
-   [Paper] https://ieeexplore.ieee.org/document/9108549 
-   
-   [Code] https://github.com/shenxiaocam/CDNE
- 
 
