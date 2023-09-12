@@ -72,6 +72,7 @@ subtitle = ""
 1. An introduction about our recent AAAI-2023 paper: "Neighbor Contrastive Learning on Learnable Graph Augmentation". 
 
 https://underline.io/lecture/69002-neighbor-contrastive-learning-on-learnable-graph-augmentation
+
 https://mp.weixin.qq.com/s/m2DksBHOFgGvXJht60EZ1w
 
 2. An introduction about our papers on cross-network node classification : the CDNE and ACDNE models. 
