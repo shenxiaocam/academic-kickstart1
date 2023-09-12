@@ -68,7 +68,7 @@ subtitle = ""
 +++
 1. Our paper "Domain-adaptive Graph Attention-supervised Network for Cross-network Edge Classification" has been accepted by IEEE Transactions on Neural Networks and Learning Systems.
 
-   [Paper] 
+   [Paper] https://ieeexplore.ieee.org/document/10246298
    
    [Code] https://github.com/Qqqq-shao/DGASN
 
