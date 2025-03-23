@@ -66,29 +66,28 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-[1] Xiao Shen*, Mengqiu Shao, Shirui Pan, Laurence T. Yang, and Xi Zhou. Domain-adaptive Graph Attention-supervised Network for Cross-network Edge Classification. IEEE Transactions on Neural Networks and Learning Systems, 2023. 
 
-[2] Xiao Shen, Dewang sun, Shirui Pan, Xi Zhou, and Laurence T. Yang. Neighbor Contrastive Learning on Learnable Graph Augmentation. In Proceedings of AAAI Conference on Artificial Intelligence (AAAI), pp. 9782-9791, 2023. 
+[1] Xiao Shen, Zhihao Chen, Shirui Pan, Shuang Zhou, Laurence T. Yang, and Xi Zhou*. Open-set Cross-network Node Classification via Unknown-excluded Adversarial Graph Domain Alignment. In Proceedings of AAAI Conference on Artificial Intelligence (AAAI), 2025.
 
-[3] Xiao Shen, Shirui Pan, Kup-Sze Choi, Xi Zhou*. Domain-adaptive Message Passing Graph Neural Network. Neural Networks, vol. 164, pp. 439-454, 2023.
+[2] Xiao Shen*, Mengqiu Shao, Shirui Pan, Laurence T. Yang, and Xi Zhou. Domain-adaptive Graph Attention-supervised Network for Cross-network Edge Classification. IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), vol. 35, no. 12, pp. 17842-17855, 2024. 
 
-[4] Quanyu Dai, Xiao-Ming Wu, Jiaren Xiao, Xiao Shen*, Dan Wang. Graph Transfer Learning via Adversarial Domain Adaptation with Graph Convolution. IEEE Transactions on Knowledge and Data Engineering (TKDE), vol. 35, no. 5, pp. 4908-4922, 2023.
+[3] Mengqiu Shao, Peng Xue, Xi Zhou, and Xiao Shen*. Contrastive Domain-adaptive Graph Selective Self-training Network for Cross-network Edge Classification. Pattern Recognition, vol. 152, 110448, 2024.
 
-[5] Xiao Shen, Quanyu Dai*, Sitong Mao, Fu-lai Chung, and Kup-Sze Choi, Network Together: Node Classification via Cross-network Deep Network Embedding, IEEE Transactions on Neural Networks and Learning Systems (TNNLS), vol. 32, no. 5, pp. 1935-1948, 2021. 
+[4] Xiao Shen, Dewang sun, Shirui Pan, Xi Zhou, and Laurence T. Yang. Neighbor Contrastive Learning on Learnable Graph Augmentation. In Proceedings of AAAI Conference on Artificial Intelligence (AAAI), pp. 9782-9791, 2023. 
 
-[6] Quanyu Dai, Xiao Shen, Zimu Zheng, Liang Zhang, Qiang Li, and Dan Wang, Adversarial Training Regularization for Negative Sampling Based Network Embedding, Information Sciences, vol. 579, pp. 199-217, 2021. 
+[5] Xiao Shen, Shirui Pan, Kup-Sze Choi, Xi Zhou*. Domain-adaptive Message Passing Graph Neural Network. Neural Networks, vol. 164, pp. 439-454, 2023.
 
-[7] Xiao Shen, Quanyu Dai, Fu-lai Chung, Wei Lu, and Kup-Sze Choi, Adversarial deep network embedding for cross-network node classification, Proceedings of AAAI Conference on Artificial Intelligence (AAAI), 2020.04. 
+[6] Quanyu Dai, Xiao-Ming Wu, Jiaren Xiao, Xiao Shen*, Dan Wang. Graph Transfer Learning via Adversarial Domain Adaptation with Graph Convolution. IEEE Transactions on Knowledge and Data Engineering (TKDE), vol. 35, no. 5, pp. 4908-4922, 2023.
 
-[8] Xiao Shen, and Fu-Lai Chung*, Deep Network Embedding for Graph Representation Learning in Signed Networks, IEEE Transactions on Cybernetics (TCyb), vol. 50, no. 4, pp. 1556-1568, 2020. 
+[7] Xiao Shen, Quanyu Dai*, Sitong Mao, Fu-lai Chung, and Kup-Sze Choi, Network Together: Node Classification via Cross-network Deep Network Embedding, IEEE Transactions on Neural Networks and Learning Systems (TNNLS), vol. 32, no. 5, pp. 1935-1948, 2021. 
 
-[9] Xiao Shen, Sitong Mao, and Fu-lai Chung*, Cross-network Learning with Fuzzy Labels for Seed Selection and Graph Sparsification in Influence Maximization, IEEE Transactions on Fuzzy Systems (TFS), vol. 28, no. 9, pp. 2195-2208, 2020. 
+[8] Xiao Shen, Quanyu Dai, Fu-lai Chung, Wei Lu, and Kup-Sze Choi, Adversarial deep network embedding for cross-network node classification, Proceedings of AAAI Conference on Artificial Intelligence (AAAI), pp. 2991-2999, 2020. 
 
-[10] Quanyu Dai, Xiao Shen, Liang Zhang, Qiang Li, Dan Wang, Adversarial Training Methods for Network Embedding, Proceedings of the International Conference on World Wide Web (WWW), 2019.05. 
+[9] Xiao Shen, and Fu-Lai Chung*, Deep Network Embedding for Graph Representation Learning in Signed Networks, IEEE Transactions on Cybernetics (TCyb), vol. 50, no. 4, pp. 1556-1568, 2020. 
 
-[11] Sitong Mao, Xiao Shen, Fu-lai Chung, Deep Domain Adaptation based on Multi-layer Joint Kernelized Distance, Proceedings of International ACM SIGIR Conference on Research & Development in Information Retrieval (SIGIR), 2018.06. 
+[10] Xiao Shen, Sitong Mao, and Fu-lai Chung*, Cross-network Learning with Fuzzy Labels for Seed Selection and Graph Sparsification in Influence Maximization, IEEE Transactions on Fuzzy Systems (TFS), vol. 28, no. 9, pp. 2195-2208, 2020. 
 
-[12] Xiao Shen, Fu-lai Chung, and Sitong Mao, Leveraging Cross-network Information for Graph Sparsification in Influence Maximization, Proceedings of International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2017.07. 
+[11] Xiao Shen, Fu-lai Chung, and Sitong Mao, Leveraging Cross-network Information for Graph Sparsification in Influence Maximization, Proceedings of International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2017.07. 
 
-[13] Xiao Shen, and Fu-lai Chung, Deep Network Embedding with Aggregated Proximity Preserving, Proceedings of the 2017 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), 2017.08.
+[12] Xiao Shen, and Fu-lai Chung, Deep Network Embedding with Aggregated Proximity Preserving, Proceedings of the 2017 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), 2017.08.
 
