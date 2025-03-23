@@ -22,11 +22,10 @@ organizations:
 bio: My research interests include machine learning and data mining, specialized in graph representation learning, deep learning, transfer learning, and data mining in complex networks.
 
 interests:
-- Graph neural networks
-- Cross-network classification
-- Graph contrastive learning
-
-
+- Graph Domain Adaptation
+- Cross-network Classification
+- Graph Neural Networks
+- Graph Contrastive Learning
 
 education:
   courses:
