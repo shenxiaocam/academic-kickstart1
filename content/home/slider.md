@@ -22,11 +22,13 @@ subtitle = ""
 +++
 
 
-====
+
 Program Chair (Conference)
+
 •	The 7th IEEE International Conference on Data Science and Systems (IEEE DSS-2021) 
 
 Program Committee Member (Conference)
+
 •	ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING (KDD), 2023-2025
 •	ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2025
 •	ACM Web Conference (WWW), 2023
@@ -34,6 +36,7 @@ Program Committee Member (Conference)
 •	International Joint Conference on Artificial Intelligence (IJCAI), 2021-2025
 
 Journal Reviewer
+
 •	IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 •	IEEE Transactions on Knowledge and Data Engineering (TKDE)
 •	ACM Transactions on Knowledge Discovery from Data (TKDD) 
