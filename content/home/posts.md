@@ -67,8 +67,12 @@ subtitle = ""
  css_class = ""
 +++
 1. Our paper "Open-set Cross-network Node Classification via Unknown-excluded Adversarial Graph Domain Alignment" has been accepted by AAAI 2025.
-   [Paper] https://arxiv.org/pdf/2502.10967
-   [Code]  https://github.com/3480430977/UAGA
+links:
+- name: Paper
+  url: https://arxiv.org/pdf/2502.10967
+links:
+- name: Code
+  url: https://github.com/3480430977/UAGA
    
 2. Our paper "Domain-adaptive Graph Attention-supervised Network for Cross-network Edge Classification" has been accepted by IEEE Transactions on Neural Networks and Learning Systems.
 
