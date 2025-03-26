@@ -83,7 +83,7 @@ subtitle = ""
 
 [8] Xiao Shen, Quanyu Dai, Fu-lai Chung, Wei Lu, and Kup-Sze Choi, Adversarial deep network embedding for cross-network node classification, Proceedings of AAAI Conference on Artificial Intelligence (AAAI), pp. 2991-2999, 2020. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5692) [[Code]](https://github.com/3480430977/ACDNE) 
 
-[9] Xiao Shen, and Fu-Lai Chung*, Deep Network Embedding for Graph Representation Learning in Signed Networks, IEEE Transactions on Cybernetics (TCyb), vol. 50, no. 4, pp. 1556-1568, 2020. [[Paper]](https://ieeexplore.ieee.org/abstract/document/8486671/)) [[Code]](https://github.com/shenxiaocam/Deep-network-embedding-for-graph-representation-learning-in-signed-networks))
+[9] Xiao Shen, and Fu-Lai Chung*, Deep Network Embedding for Graph Representation Learning in Signed Networks, IEEE Transactions on Cybernetics (TCyb), vol. 50, no. 4, pp. 1556-1568, 2020. [[Paper]](https://ieeexplore.ieee.org/abstract/document/8486671/) [[Code]](https://github.com/shenxiaocam/Deep-network-embedding-for-graph-representation-learning-in-signed-networks)
 
 [10] Xiao Shen, Sitong Mao, and Fu-lai Chung*, Cross-network Learning with Fuzzy Labels for Seed Selection and Graph Sparsification in Influence Maximization, IEEE Transactions on Fuzzy Systems (TFS), vol. 28, no. 9, pp. 2195-2208, 2020. 
 
