@@ -69,7 +69,7 @@ subtitle = ""
 
 [1] Xiao Shen, Zhihao Chen, Shirui Pan, Shuang Zhou, Laurence T. Yang, and Xi Zhou*. Open-set Cross-network Node Classification via Unknown-excluded Adversarial Graph Domain Alignment. In Proceedings of AAAI Conference on Artificial Intelligence (AAAI)，pp. 20398-20408, 2025. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/34247) [[Code]](https://github.com/3480430977/UAGA)
 
-[2] Chuanyun Lin, Xi Zhou, and Xiao Shen*. Hierarchical graph contrastive domain adaptation for multi-source cross-network node classification. Expert Systems with Applications, 127900, 2025. (中科院SCI大类一区, 唯一通讯作者)[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425015222)], [[Code](https://github.com/SHL185416/MHGCDA)]
+[2] Chuanyun Lin, Xi Zhou, and Xiao Shen*. Hierarchical graph contrastive domain adaptation for multi-source cross-network node classification. Expert Systems with Applications, 127900, 2025. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425015222)], [[Code](https://github.com/SHL185416/MHGCDA)]
 
 [3] Xiao Shen*, Mengqiu Shao, Shirui Pan, Laurence T. Yang, and Xi Zhou. Domain-adaptive Graph Attention-supervised Network for Cross-network Edge Classification. IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), vol. 35, no. 12, pp. 17842-17855, 2024.  [[Paper]](https://ieeexplore.ieee.org/abstract/document/10246298/) [[Code]](https://github.com/Qqqq-shao/DGASN)  
 
