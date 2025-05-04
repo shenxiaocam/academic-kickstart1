@@ -31,6 +31,8 @@ subtitle = ""
 
 •	ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING (KDD), 2023-2025
 
+•	The Annual Conference on Neural Information Processing Systems (NeurIPS), 2025
+
 •	ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2025
 
 •	ACM Web Conference (WWW), 2023
