@@ -22,6 +22,8 @@ subtitle = ""
 +++
 
 
+**Member**
+•	IEEE Senior Member
 
 **Program Chair (Conference)**
 
