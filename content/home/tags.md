@@ -21,7 +21,7 @@ subtitle = ""
   font_size_max = 2.0
 +++
 1. The Nanhai Xinxing Technology Innovation Talent Scheme, awarded by Hainan Provincial Department of Science and Technology, 2023.
-2. University-level Outstanding High-level Talents, awarded by Hainan University, 2022.
+2. University-level Outstanding High-level Talents, awarded by Hainan University, 2022, 2023, 2024.
 3. IEEE Outstanding Leadership Award, awarded by 2021 IEEE Hyper-Intelligence Congress, 2021.
 4. Postdoctoral Hub, The Hong Kong Technology Talent Scheme, awarded by Innovation and Technology Commission, The Government of The Hong Kong SAR, 2019-2021.
 5. The Hong Kong PhD Fellowship (HKPFS), awarded by the Research Grants Council, The Government of The Hong Kong SAR, 2015-2018.
