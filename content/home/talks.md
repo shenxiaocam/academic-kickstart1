@@ -69,11 +69,13 @@ subtitle = ""
  css_class = ""
 +++
 
-1. An introduction about our AAAI 2025 paper: "Open-set Cross-network Node Classification via Unknown-excluded Adversarial Graph Domain Alignment".[[Link]](https://mp.weixin.qq.com/s/0_IzOnqHe1Y564d5nep2mg)
+1. An introduction about our WWW 2026 paper: "negMIX: Negative Mixup for OOD Generalization in Open-Set Node Classification".[[Link]](https://mp.weixin.qq.com/s/H6mHiOk1KI9_NuVBYyjiEw)
    
-2. An introduction about our IEEE TNNLS paper: "Domain-adaptive Graph Attention-supervised Network for Cross-network Edge Classification".[[Link]](https://mp.weixin.qq.com/s/qumZgJ4JXA85g9FpG5PtYg)
+2. An introduction about our AAAI 2025 paper: "Open-set Cross-network Node Classification via Unknown-excluded Adversarial Graph Domain Alignment".[[Link]](https://mp.weixin.qq.com/s/0_IzOnqHe1Y564d5nep2mg)
    
-3. An introduction about our AAAI 2023 paper: "Neighbor Contrastive Learning on Learnable Graph Augmentation".[[Link]](https://mp.weixin.qq.com/s/m2DksBHOFgGvXJht60EZ1w)
+3. An introduction about our IEEE TNNLS paper: "Domain-adaptive Graph Attention-supervised Network for Cross-network Edge Classification".[[Link]](https://mp.weixin.qq.com/s/qumZgJ4JXA85g9FpG5PtYg)
+   
+54ttps://mp.weixin.qq.com/s/m2DksBHOFgGvXJht60EZ1w)
 , [[Video]](https://underline.io/lecture/69002-neighbor-contrastive-learning-on-learnable-graph-augmentation)
 
-4. An introduction about our papers on cross-network node classification : the CDNE and ACDNE models. [[Link]](https://mp.weixin.qq.com/s/LUnwwoeU7ZRNyOgGfCc7Pg)
+5. An introduction about our papers on cross-network node classification : the CDNE and ACDNE models. [[Link]](https://mp.weixin.qq.com/s/LUnwwoeU7ZRNyOgGfCc7Pg)
